@@ -58,21 +58,5 @@ For each plot you should
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files.
 
-The four plots that you will need to construct are shown below. 
 
-Plot 1
-
-ExDataCP1Plot1.png
-
-Plot 2
-
-ExDataCP1Plot2.png
-
-Plot 3
-
-ExDataCP1Plot3.png
-
-Plot 4
-
-ExDataCP1Plot4.png
 
